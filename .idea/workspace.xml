@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f32fa47b-571e-4e5f-8217-a37deb61ed72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q6IYKxSNgMYfqTXWK6jlvYquLa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="buh_buh_dak_dak_lmao [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.qr_code_scanner_example" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f32fa47b-571e-4e5f-8217-a37deb61ed72" name="Default Changelist" comment="" />
+      <created>1616393658087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616393658087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616397191810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="503" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1616397191810" />
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1616477788936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1616477788914" />
+    <state x="553" y="162" key="AndroidProcessChooserDialog" timestamp="1616486532131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="162" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1616486532131" />
+    <state x="518" y="167" key="FileChooserDialogImpl" timestamp="1616396643033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616396643033" />
+    <state width="1095" height="167" key="GridCell.Tab.0.bottom" timestamp="1616488749044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1095" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
+    <state width="1095" height="167" key="GridCell.Tab.0.center" timestamp="1616488749044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1095" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
+    <state width="1095" height="167" key="GridCell.Tab.0.left" timestamp="1616488749043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1095" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616488749043" />
+    <state width="1095" height="167" key="GridCell.Tab.0.right" timestamp="1616488749044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1095" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
+    <state x="247" y="57" key="SettingsEditor" timestamp="1616397378730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="247" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616397378730" />
+    <state x="675" y="144" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1616487567454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="675" y="144" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1616487567454" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/page/qr_scan_page.dart</url>
+          <line>45</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
