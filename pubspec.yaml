@@ -9,6 +9,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  flutter_svg: ^0.19.3
 
   # scan QR Code
   flutter_barcode_scanner: ^1.0.2
@@ -22,3 +23,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/heart/

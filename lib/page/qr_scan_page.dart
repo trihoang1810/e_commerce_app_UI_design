@@ -14,6 +14,7 @@ class QRScanPage extends StatefulWidget {
 
 class _QRScanPageState extends State<QRScanPage> {
   String qrCode = 'Unknown';
+  //int a = 0;
 
   @override
   Widget build(BuildContext context) => Scaffold(
@@ -46,7 +47,7 @@ class _QRScanPageState extends State<QRScanPage> {
                 text: 'Start QR scan',
                 onClicked: () {
                   scanQRCode();
-                  compareScan(qrCode);
+                  //compareScan(this.qrCode);
                 },
               ),
             ],
@@ -71,78 +72,37 @@ class _QRScanPageState extends State<QRScanPage> {
     } on PlatformException {
       qrCode = 'Failed to get platform version.';
     }
+    if (qrCode == 'napboncau') {
+      //print('Đây là if');
+      Navigator.pushNamed(context, "/detailtab");
+    } else if (qrCode == 'boxaboncau') {
+      Navigator.pushNamed(context, "/detailtab1");
+    } else {
+      if (qrCode == 'Unknown') {
+        return;
+      } else {
+        //print('Đây là else');
+        Navigator.pushNamed(context, "/errortab");
+      }
+    }
+    //a = 0;
+    //a++;
   }
-}
 
-void compareScan(String qrCode) {
-  if (qrCode == 'mrtribachkhoa') {
-    /* Widget build(BuildContext context) {
-      new Container(
-          child: ButtonWidget(
-            text: 'Tiep tuc',
-            onClicked: () {
-              Navigator.of(context).push(
-                  MaterialPageRoute(
-                      builder: (BuildContext context) => DetailPage()
-                  )
-              );
-            },
-          )
-      );
-    }*/
-    print('Đây là if');
-    PageNavigator();
-  } else {
-    print('Đây là else');
-    ErrorPage();
-    //final snackBar = SnackBar(content: Text('Khong dung du lieu'));
-    // Scaffold.of(context).showSnackBar(snackBar);
-  }
+  /*void compareScan(String qrCode) {
+    //if (a != 0) {
+    if (qrCode == 'https://qrco.de/bc1lGS') {
+      print('Đây là if');
+      Navigator.pushNamed(context, "/detailtab");
+    } else {
+      if (qrCode == 'Unknown') {
+        return;
+      } else {
+        print('Đây là else');
+        Navigator.pushNamed(context, "/errortab");
+      }
+    }
+    //a = 0;
+  }*/
 }
-
-class PageNavigator extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    print('Đây là page Navigator');
-    return Container(
-        child: RaisedButton(
-      child: Text('Tiep tuc'),
-      onPressed: () {
-        Navigator.of(context).push(
-            MaterialPageRoute(builder: (BuildContext context) => DetailPage()));
-      },
-    ));
-  }
-}
-
-class ErrorPage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    print('Đây là ErroPage');
-    return Scaffold(
-      body: Center(
-          child: FlatButton(
-        child: Text('Khong the hien du lieu'),
-        onPressed: () {},
-      )),
-    );
-  }
-}
-
-class DetailPage extends StatefulWidget {
-  _DetailState createState() => _DetailState();
-}
-
-class _DetailState extends State<DetailPage> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('anh Tri dep trai'),
-      ),
-      body: Center(
-        child: Text('Page cua anh Tri dep trai'),
-      ),
-    );
-  }
-}
+//}

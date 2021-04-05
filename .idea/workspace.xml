@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:masterr" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f32fa47b-571e-4e5f-8217-a37deb61ed72" name="Default Changelist" comment="" />
+    <list default="true" id="f32fa47b-571e-4e5f-8217-a37deb61ed72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qr_code_scanner_example-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qr_code_scanner_example-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_sistrain_no_background (3).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/page/detailpage1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/page/detailpage1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/page/detailpage2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/page/detailpage2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/page/errorpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/page/errorpage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/page/qr_scan_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/page/qr_scan_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widget/productcounter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/productcounter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +47,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1q6IYKxSNgMYfqTXWK6jlvYquLa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DEBUGGABLE_DEVICE" value="buh_buh_dak_dak_lmao [emulator-5554]" />
     <property name="DEBUGGABLE_PROCESS" value="com.example.qr_code_scanner_example" />
     <property name="DEBUGGER_ID" value="Java" />
@@ -32,6 +72,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\flutterprojects\qr_code_scanner_example-master\assets" />
+    </key>
   </component>
   <component name="RunManager" selected="Flutter.main.dart">
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -62,39 +107,58 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="722" y="74" key="#Intentions" timestamp="1616652001450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="74" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1616652001450" />
     <state x="503" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616397191810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1616397191810" />
-    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1616477788936">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1616815637218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1616477788914" />
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1616815637218" />
     <state x="553" y="162" key="AndroidProcessChooserDialog" timestamp="1616486532131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="553" y="162" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1616486532131" />
-    <state x="518" y="167" key="FileChooserDialogImpl" timestamp="1616396643033">
+    <state x="518" y="167" key="FileChooserDialogImpl" timestamp="1616511664301">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="518" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616396643033" />
-    <state width="1095" height="167" key="GridCell.Tab.0.bottom" timestamp="1616488749044">
+    <state x="518" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616511664301" />
+    <state width="912" height="293" key="GridCell.Tab.0.bottom" timestamp="1616823203116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1095" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
-    <state width="1095" height="167" key="GridCell.Tab.0.center" timestamp="1616488749044">
+    <state width="912" height="293" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616823203116" />
+    <state width="912" height="293" key="GridCell.Tab.0.center" timestamp="1616823203116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1095" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
-    <state width="1095" height="167" key="GridCell.Tab.0.left" timestamp="1616488749043">
+    <state width="912" height="293" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616823203116" />
+    <state width="912" height="293" key="GridCell.Tab.0.left" timestamp="1616823203116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1095" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616488749043" />
-    <state width="1095" height="167" key="GridCell.Tab.0.right" timestamp="1616488749044">
+    <state width="912" height="293" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616823203116" />
+    <state width="912" height="293" key="GridCell.Tab.0.right" timestamp="1616823203116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1095" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616488749044" />
+    <state width="912" height="293" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616823203116" />
     <state x="247" y="57" key="SettingsEditor" timestamp="1616397378730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -103,16 +167,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="675" y="144" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1616487567454" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/page/qr_scan_page.dart</url>
-          <line>45</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="721" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1616776671656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="721" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616776671656" />
   </component>
 </project>
